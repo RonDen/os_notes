@@ -54,3 +54,5 @@ B站UP上传的小甲鱼语言教程：https://www.bilibili.com/video/BV1Et411t7
 关于XV6能做什么：
 
 东京大学学生在自己制作的CPU上移植XV6系统并实现了各种有趣的小程序：https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/
+
+XV6源代码阅读之进程线程：https://www.cnblogs.com/icoty23/p/10993807.html

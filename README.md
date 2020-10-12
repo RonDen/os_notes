@@ -33,6 +33,7 @@ XV6源码仓库：https://github.com/mit-pdos/xv6-public
 MIT6.828操作系统工程，本课程以学习XV6为主，OS的概念以及各种关于XV6的资料、Lab基本都可以在上面找到，内容非常丰富（就是学起来比较头冷，需要毅力）：https://pdos.csail.mit.edu/6.828/2014/schedule.html
 
 介绍XV6设计的书籍：https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf
+
 书籍的中文版：https://github.com/ranxian/xv6-chinese/tree/master/content
 
 学完MIT6.828的知乎大佬的经验分享：https://zhuanlan.zhihu.com/p/74028717

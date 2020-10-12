@@ -34,6 +34,8 @@ MIT6.828操作系统工程，本课程以学习XV6为主，OS的概念以及各�
 
 介绍XV6设计的书籍：https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf
 
+书籍的中文版（版本不同，内容相似）：https://github.com/ranxian/xv6-chinese/tree/master/content
+
 学完MIT6.828的知乎大佬的经验分享：https://zhuanlan.zhihu.com/p/74028717
 
 在Youtube上找到两个讲xv6的视频

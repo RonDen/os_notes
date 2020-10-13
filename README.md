@@ -57,4 +57,4 @@ B站UP上传的小甲鱼语言教程：https://www.bilibili.com/video/BV1Et411t7
 
 XV6源代码阅读之进程线程：https://www.cnblogs.com/icoty23/p/10993807.html
 
-一个个人博客地址，里面有他的XV6的学习记录，可以作为参考：https://icoty.github.io/
+一个个人博客地址，里面有他的XV6的学习记录，可以作为参考（对照着问题去看相应的代码）：https://icoty.github.io/

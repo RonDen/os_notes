@@ -34,6 +34,8 @@ MIT6.828操作系统工程，本课程以学习XV6为主，OS的概念以及各�
 
 介绍XV6设计的书籍：https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf
 
+书籍的中文版（版本不同，内容相似）：https://github.com/ranxian/xv6-chinese/tree/master/content
+
 学完MIT6.828的知乎大佬的经验分享：https://zhuanlan.zhihu.com/p/74028717
 
 在Youtube上找到两个讲xv6的视频
@@ -52,3 +54,7 @@ B站UP上传的小甲鱼语言教程：https://www.bilibili.com/video/BV1Et411t7
 关于XV6能做什么：
 
 东京大学学生在自己制作的CPU上移植XV6系统并实现了各种有趣的小程序：https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/
+
+XV6源代码阅读之进程线程：https://www.cnblogs.com/icoty23/p/10993807.html
+
+一个个人博客地址，里面有他的XV6的学习记录，可以作为参考（对照着问题去看相应的代码）：https://icoty.github.io/

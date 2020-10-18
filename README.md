@@ -76,3 +76,5 @@ B站UP上传的小甲鱼语言教程：https://www.bilibili.com/video/BV1Et411t7
 XV6源代码阅读之进程线程：https://www.cnblogs.com/icoty23/p/10993807.html
 
 一个个人博客地址，里面有他的XV6的学习记录，可以作为参考（对照着问题去看相应的代码）：https://icoty.github.io/
+
+关于操作系统32位机器保护模式下寻址，可以参考哈工大李治军老师的MOOC（讲的非常好）：https://www.icourse163.org/learn/HIT-1002531008?tid=1450346461#/learn/content

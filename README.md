@@ -32,7 +32,7 @@ Nachos相关的报告、笔记、问题描述可以放在`nachos`目录下，目
 
 ## 相关资源
 
-代码、书籍和相关课程等资源：
+### 代码、书籍和相关课程等
 
 XV6源码仓库：https://github.com/mit-pdos/xv6-public
 
@@ -49,7 +49,7 @@ MIT6.828操作系统工程，本课程以学习XV6为主，OS的概念以及各�
 https://www.youtube.com/watch?v=ktkAlbcoz7o
 https://www.youtube.com/watch?v=ikcfQw4FPEw&list=PLrYtVwt5XyvenaqRLNEFMD5uxswTpYwmN
 
-关于汇编语言：
+### 汇编语言
 
 B站UP上传的小甲鱼语言教程：https://www.bilibili.com/video/BV1Et411t7ks
 
@@ -57,7 +57,19 @@ B站UP上传的小甲鱼语言教程：https://www.bilibili.com/video/BV1Et411t7
 
 网页版的指令索引： https://pdos.csail.mit.edu/6.828/2005/pdp11/
 
-关于XV6能做什么：
+#### x86
+
+[x86汇编指令参考（英文）felixcloutier](https://www.felixcloutier.com/x86/)
+
+[x86汇编指南（英文）University of Virginia](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+
+#### C汇编内联
+
+[GNU C ASM扩展（英文）](https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html)
+
+[IBM C & C++ 内联汇编指南（英文）](https://www.ibm.com/developerworks/rational/library/inline-assembly-c-cpp-guide/index.html)
+
+### XV6能做什么
 
 东京大学学生在自己制作的CPU上移植XV6系统并实现了各种有趣的小程序：https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/
 

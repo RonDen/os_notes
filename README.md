@@ -35,7 +35,7 @@ Nachos相关的报告、笔记、问题描述可以放在`nachos`目录下，目
 
 ### 最终报告
 
-目前本学期的讨论已经结束，所有的报告都上传到了[report](https://github.com/RonDen/os_notes/report/)文件夹下面，可以点击查看。
+目前本学期的讨论已经结束，所有的报告都上传到了[report](https://github.com/RonDen/os_notes/tree/main/report)文件夹下面，可以点击查看。
 后期考虑可以转换成Markdown格式方便链接与在线查看。
 
 ## 相关资源
